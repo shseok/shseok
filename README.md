@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 const Hyeonseok = {
     nickName: "shseok",
     frontEnd:["html5", "css3", "Javascript", "React"],
-    backEnd:["Firebase", "PHP", "Mysql"],
+    backEnd:["PHP"],
+    database:["Firebase", "Mysql(mariaDB)"],
     interests:["interactive web", "Responsive web", "SPA"]
 }
 ```
