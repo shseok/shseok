@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **shseok/shseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,8 +27,8 @@ const Hyeonseok = {
 ```
 
 
- <img src="https://img.shields.io/badge/-html5-E34F26?style=flat&logo=html5&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/-Firebase-0396de?style=flat&logo=firebase&logoColor=ffcc33"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/-PHP-2b2929?style=flat&logo=php&logoColor=777bb3">
+ <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=Html5&logoColor=00c8ff"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/-Firebase-0396de?style=flat&logo=firebase&logoColor=ffcc33"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/-PHP-2b2929?style=flat&logo=php&logoColor=777bb3">
 
 
 ---
-🖐 From [@shseok](https://github.com/shseok)
+From [@shseok](https://github.com/shseok)
