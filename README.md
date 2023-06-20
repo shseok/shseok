@@ -6,10 +6,12 @@
 ```
 const Hyeonseok = {
     nickName: "shseok",
-    frontEnd:["html5", "css3", "Javascript", "Typescript", "React"],
-    backEnd:["PHP"],
-    database:["Firebase", "Mysql(mariaDB)"],
-    interests:["interactive web", "Responsive web", "SPA"]
+    frontEnd:["html5", "css3", "Javascript", "Typescript", "React", "Flutter", "React-Native", "Next.js", "Styled-Components", "Emotion"],
+    backEnd:["PHP", "Express", "Fastify"],
+    database:["Firebase", "Mysql", "Postgresql"],
+    orm:["Prisma"],
+    infrastructure:["aws ecr", "aws ecs", "aws ec2", "docker", "terraform"],
+    interests:["interactive web", "Responsive web", "SPA", "SSR"]
 }
 ```
     
