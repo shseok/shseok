@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=%20Frontend%20Developer&fontAlign=50&fontAlignY=40&color=gradient)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=💻%20Frontend%20Developer&fontAlign=50&fontAlignY=40&color=gradient)
 
 <div align="start">
     <img width height = "150" src ="https://github-readme-stats.vercel.app/api?username=shseok&show_icons=true">
@@ -6,9 +6,9 @@
 </div>
 <br/>
 <details>
-<summary>⚒️ Tech</summary>
+<summary>🛠️ Tech</summary>
     
-### ⚒️ Domain & Skill
+### 🛠️ Domain & Skill
     
 |Domain|Skill
 |:---:|:---|
@@ -20,12 +20,12 @@
     
 <!-- [![shseok's github stats](https://github-readme-stats.vercel.app/api?username=shseok&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-###  💎 Released Apps
+###  🎉 Released Apps
 <ol>
   <li> 
      <p> 
        <img width = "25" src="https://www.mztrees.com/favicon/favicon.ico" align="center"> 
-          <a href = "https://www.mztrees.com/">  Mztrees </a> <span> (...initializing database) </span>
+          <a href = "https://www.mztrees.com/"> Mztrees </a> <span> (...initializing database) </span>
      </p> 
   </li>
   <ul>
@@ -33,6 +33,21 @@
   </ul>
   
 </ol>
-    
----
-From [@shseok](https://github.com/shseok)
+
+###  🤝 Contribution
+<ol>
+  <li> 
+     <p> 
+       <img width = "25" src="https://nss-integration.s3.us-west-1.amazonaws.com/common/favicon.jpg" align="center"> 
+          <a href = "https://event.nanoscientific.org/"> Nanoscientific Symposium </a>
+     </p> 
+  </li>
+  <ul>
+      <li> The Nano scientific Symposium Dedicated to Scanning Probe Microscopy </li>
+  </ul>
+  
+</ol>
+
+<br/>
+--- 
+<div align="start">From <a href="mailto:shseok0674@gmail.com">shseok0674@gmail.com</a></div>
