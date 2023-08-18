@@ -48,6 +48,7 @@
   
 </ol>
 
-<br/>
---- 
+
+---
+
 <div align="start">From <a href="mailto:shseok0674@gmail.com">shseok0674@gmail.com</a></div>
