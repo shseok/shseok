@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=💻%20Frontend%20Developer&fontAlign=50&fontAlignY=40&color=gradient)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=%20Frontend%20Developer&fontAlign=50&fontAlignY=40&color=gradient)
 
 <div align="start">
     <img width height = "150" src ="https://github-readme-stats.vercel.app/api?username=shseok&show_icons=true">
