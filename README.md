@@ -25,7 +25,7 @@
   <li> 
      <p> 
        <img width = "25" src="https://www.mztrees.com/favicon/favicon.ico" align="center"> 
-          <a href = "https://www.mztrees.com/"> Mztrees </a> <span> (...initializing database) </span>
+          <a href = "https://www.mztrees.com/"> Mztrees </a>
      </p> 
   </li>
   <ul>
