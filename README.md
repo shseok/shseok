@@ -51,4 +51,4 @@
 
 ---
 
-<div align="start">From <a href="mailto:shseok0674@gmail.com">shseok0674@gmail.com</a></div>
+<div align="end">From <a href="mailto:shseok0674@gmail.com">shseok0674@gmail.com</a></div>
