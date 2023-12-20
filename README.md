@@ -29,7 +29,7 @@
      </p> 
   </li>
   <ul>
-      <li> 개성있거나 유용한 사이트를 누구나 공유하고 확인할 수 있는 웹 사이트
+      <li> A website where anyone can share and check out unique or useful sites
   </ul>
   
 </ol>
@@ -52,7 +52,7 @@
      </p> 
   </li>
   <ul>
-      <li> 반려동물을 기르는 사람들을 위한 커뮤니티 플랫폼 </li>
+      <li> Community platform for people who raise pets </li>
   </ul>  
 </ol>
 
