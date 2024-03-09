@@ -1,6 +1,5 @@
 <div align="start">
     <img width height = "150" src ="https://github-readme-stats.vercel.app/api?username=shseok&show_icons=true">
-    <img width height = "150" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shseok&layout=compact">
 </div>
 <br/>
 <details>
