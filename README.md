@@ -23,7 +23,7 @@
   <li> 
      <p> 
        <img width = "25" src="https://www.mztrees.com/favicon/favicon.ico" align="center"> 
-          <a href = "https://www.mztrees.com/"> Mztrees </a>
+          <a href = "https://www.mztrees.com/"> Mztrees </a><strong>(End of Service)</strong></a>
      </p> 
   </li>
   <ul>
