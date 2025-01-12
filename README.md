@@ -37,15 +37,6 @@
 <ol>
   <li> 
      <p> 
-       <img width = "25" src="https://nss-integration.s3.us-west-1.amazonaws.com/common/favicon.jpg" align="center"> 
-          <a href = "https://event.nanoscientific.org/"> Nanoscientific Symposium </a>
-     </p> 
-  </li>
-  <ul>
-      <li> The Nano scientific Symposium Dedicated to Scanning Probe Microscopy </li>
-  </ul>
-  <li> 
-     <p> 
        <img width = "35" src="https://www.paw-paw.xyz/images/image.png" align="center"> 
           <a href = "https://www.paw-paw.xyz/"> PawPaw </a><strong>(End of Service)</strong>
      </p> 
